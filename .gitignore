@@ -2,8 +2,7 @@ venv/
 .venv/
 __pycache__/
 *.pyc
-.DS_store
+.DS_Store
 .env
 users.json
 *.enc
-EOR
