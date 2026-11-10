@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_store
+.env
+users.json
+*.enc
+EOR
