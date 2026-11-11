@@ -2,7 +2,7 @@
 
 Three Python modules covering password security, authentication, and encryption: a password strength checker and generator, a salted-hash login system, and a password-based encryption engine.
 
-<!-- Add a sentence or two in your own words: why you built this. -->
+I built my own security toolkit to gain experience on how encryption and decryption work when dealing with security of systems. I also created the password generator because I didn't want to depend on password generators out on the internet and instead decided to create my own. 
 
 ## What's inside
 
